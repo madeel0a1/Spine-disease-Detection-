@@ -33,10 +33,12 @@ Given a cropped lumbar spine MRI slice centered on a specific region, the model 
 ## Project Structure
 
 ```
-spine-detector-app/
-├── app.py                          # Streamlit web app
-├── requirements.txt
-├── classification_v2_best.weights.h5   # Trained model weights (add this file)
+Spine-disease-Detection-/
+├── app.py                              # Streamlit web app
+├── requirements.txt                    # Python dependencies
+├── runtime.txt                         # Python version config
+├── classification_v2_best.weights.h5   # Trained model weights (via Git LFS)
+├── .gitattributes                      # Git LFS tracking config
 └── README.md
 ```
 
