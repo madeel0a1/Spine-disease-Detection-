@@ -2,7 +2,9 @@
 
 A deep learning system for detecting lumbar spine degenerative conditions from MRI scans, built on the [RSNA 2024 Lumbar Spine Degenerative Classification](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification) Kaggle dataset.
 
+Deploy link:
 https://bte7cckf8olaeo4gk7h9fe.streamlit.app/
+
 ## Overview
 
 Given a cropped lumbar spine MRI slice centered on a specific region, the model predicts whether one of five degenerative conditions is present:
