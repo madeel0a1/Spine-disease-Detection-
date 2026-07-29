@@ -45,7 +45,7 @@ Spine-disease-Detection-/
 ## Running Locally
 
 ```bash
-git clone <your-repo-url>
+git clone <[Repo link: (https://github.com/madeel0a1/Spine-disease-Detection-)>
 cd spine-detector-app
 pip install -r requirements.txt
 streamlit run app.py
